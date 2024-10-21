@@ -16,8 +16,8 @@ videojuegos:"Vampire: The Masquerade",
 -->
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/sesionesgolfas)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@javilazaro.es)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/javi-lazaro/](https://www.linkedin.com/in/javi-lazaro/)(https://www.linkedin.com/in/javi-lazaro/))
-[![LinkedIn](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://www.linkedin.com/in/adammalston/](https://www.linkedin.com/in/javi-lazaro/))
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javi-lazaro/)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JaviLazaroSEO)
 [![javilazaro.es](https://img.shields.io/badge/-JAVILAZARO.ES-012c6d?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.javilazaro.es/)
 
 <p align="center">
