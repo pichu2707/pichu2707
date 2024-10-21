@@ -1,13 +1,6 @@
 ## Hi soy Javi Lazaro 👋
 
 
-```python 
-JaviLazaro = {
-hobbies:"DC"|"Marvel",
-peliculas:["Terror","Acción","Suspense"],
-videojuegos:"Vampire: The Masquerade",
-}
-```
 
 ![Estado de GitHub de JaviLazaro](https://github-readme-stats.vercel.app/api?username=pichu2707)
 <!--
@@ -25,11 +18,24 @@ videojuegos:"Vampire: The Masquerade",
 
 </p>
 <!--
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🌱 Estoy ahora mismo aprendiendo:
+
+- ⚡ Mis diversiones: 😏
+
+```python 
+JaviLazaro = {
+hobbies:"DC"|"Marvel",
+peliculas:["Terror","Acción","Suspense"],
+videojuegos:"Vampire: The Masquerade",
+}
+```
+### Eres el visitante:
+
+![Contador de visitas](https://profile-counter.glitch.me/pichu2707/count.svg)
