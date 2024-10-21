@@ -1,8 +1,17 @@
 ## Hi soy Javi Lazaro 👋
 
+
+```js 
+const JaviLazaro {
+hobbies:"DC"|"Marvel",
+peliculas:["Terror","Acción","Suspense"],
+videojuegos:"Vampire: The Masquerade",
+}
+```
+
+![Estado de GitHub de JaviLazaro](https://github-readme-stats.vercel.app/api?username=pichu2707)
 <!--
 **pichu2707/pichu2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
