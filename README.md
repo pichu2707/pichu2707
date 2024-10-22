@@ -1,4 +1,5 @@
 ## Hi soy Javi Lazaro 👋
+![me](https://github.com/user-attachments/assets/51451b92-caee-437a-9a86-92b64bc07b7a)
 Aquí me tienes, montando lo que va a ser mi porfolio para seguir evolucionando en el mundillo de las IT.
 Mi fuerte es el Python y aunque soy python lover (🐍🔥) tengo que decir que estoy empezando a cogerle el gustillo a JS.
 Empecé de la mano de gente tan grande como Alberto Talegón y Hamlet Batista dos grandes que me enseñaron desde sus clases y scripts a tomar en serio los beneficios que me podrían aportar el Python en el día a día
