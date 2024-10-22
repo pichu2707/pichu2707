@@ -11,7 +11,9 @@ que me ha ayudado a la forma de trabajar en mi día a día.
 
 <!--![Estado de GitHub de JaviLazaro]([https://github-readme-stats.vercel.app/api?username=pichu2707](https://github-readme-stats.vercel.app/api?username=pichu2707&&show_icons=true&title&color=1056a8&icon&color=1056a8&text&color=daf7dc&bg&color=151515))
 -->
+<p align="center">
 <img alt="Estado de GitHub de JaviLazaro" src="https://github-readme-stats.vercel.app/api?username=pichu2707&&show_icons=true&title_color=1056a8&icon_color=1056a8&text_color=daf7dc&bg_color=151515" >
+ </p>
 <!--
 - 🔭 I’m currently working on ...
 -->
