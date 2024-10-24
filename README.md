@@ -15,35 +15,14 @@ que me ha ayudado a la forma de trabajar en mi día a día.
  </p>
 
 ### 🔭 Podeis encontrarme en
-<!--
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <a href="https://analaizer.digital">
-      <img src="https://github.com/user-attachments/assets/5799ebe0-d490-47cf-80bc-6ac29e932726" alt="Analaizer.digital" style="width:15%; height:auto;">
-    </a>
-  </div>
-  <div>
-    <a href="https://arriakamarketing.com">
-      <img src="https://github.com/user-attachments/assets/95d2ba21-6e0b-4970-a421-27986ea65875" alt="arriakamarketing.com" style="width:15%; height:auto;">
-    </a>
-  </div>
-  <div>
-    <a href="https://javilazaro.es">
-      <img src="https://github.com/user-attachments/assets/d9e91d2d-b98a-4c69-a8d5-a14e3c9a72d1" alt="javilazar.es" style="width:15%; height:auto;">
-    </a>
-  </div>
-</div>
--->
-|  Analaizer Digital | Arriaka Marketing & Consulting | JaviLazaro.es  |
-|---|---|---|
-| [![Analaizer.digital](https://github.com/user-attachments/assets/5799ebe0-d490-47cf-80bc-6ac29e932726)](https://analaizer.digital)  | [![arriakamarketing.com](https://github.com/user-attachments/assets/95d2ba21-6e0b-4970-a421-27986ea65875)](https://arriakamarketing.com) | [![javilazaro.es](https://github.com/user-attachments/assets/d9e91d2d-b98a-4c69-a8d5-a14e3c9a72d1)](https://javilazaro.es) |
-
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/sesionesgolfas)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@javilazaro.es)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javi-lazaro/)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JaviLazaroSEO)
 [![javilazaro.es](https://img.shields.io/badge/-JAVILAZARO.ES-012c6d?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.javilazaro.es/)
+[![Analaizer.digital](https://img.shields.io/badge/-Analaizer\.digital-012c6d?style=for-the-badge&logo=googleanalytics&logoColor=#E37400)](https://www.analaizer.digital/)
+[![Arriaka Marketing & Consulting](https://img.shields.io/badge/-Arriaka_marketing-012c6d?style=for-the-badge&logo=googlebigquery&logoColor=#E37400)](https://www.arriakamarketing.com/)
 
 
 <p align="center">
@@ -51,14 +30,8 @@ que me ha ayudado a la forma de trabajar en mi día a día.
 
 </p>
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
-- 🌱 Estoy ahora mismo aprendiendo:
+- 💬 pregúntame todo lo que quieras por medio de unos de los canales
+- 📫 Cómo puedes contactar conmigo: bueno si de todo esto tienes mi [E-mail](mailto:hola@javilazaro.es)
 
 - ⚡ Mis diversiones: 😏
 
