@@ -15,17 +15,29 @@ que me ha ayudado a la forma de trabajar en mi día a día.
  </p>
 
 ### 🔭 Podeis encontrarme en
-<div>
-<div>
- <a href="https://analaizer.digital"><img src="https://github.com/user-attachments/assets/5799ebe0-d490-47cf-80bc-6ac29e932726" alt="Analaizer.digital" style="width:15%; height:auto;"></a>
+<!--
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <a href="https://analaizer.digital">
+      <img src="https://github.com/user-attachments/assets/5799ebe0-d490-47cf-80bc-6ac29e932726" alt="Analaizer.digital" style="width:15%; height:auto;">
+    </a>
+  </div>
+  <div>
+    <a href="https://arriakamarketing.com">
+      <img src="https://github.com/user-attachments/assets/95d2ba21-6e0b-4970-a421-27986ea65875" alt="arriakamarketing.com" style="width:15%; height:auto;">
+    </a>
+  </div>
+  <div>
+    <a href="https://javilazaro.es">
+      <img src="https://github.com/user-attachments/assets/d9e91d2d-b98a-4c69-a8d5-a14e3c9a72d1" alt="javilazar.es" style="width:15%; height:auto;">
+    </a>
+  </div>
 </div>
-<div>
- <a href="https://arriakamarketing.com"><img src="https://github.com/user-attachments/assets/95d2ba21-6e0b-4970-a421-27986ea65875" alt="arriakamarketing.com" style="width:15%; height:auto;"></a>
-</div>
- <div>
- <a href="https://javilazaro.es"><img src="https://github.com/user-attachments/assets/d9e91d2d-b98a-4c69-a8d5-a14e3c9a72d1" alt="javilazar.es" style="width:15%; height:auto;"></a>
-</div>
-</div>
+-->
+|  Analaizer Digital | Arriaka Marketing & Consulting | JaviLazaro.es  |
+|---|---|---|
+| [![Analaizer.digital](https://github.com/user-attachments/assets/5799ebe0-d490-47cf-80bc-6ac29e932726)](https://analaizer.digital)  | [![arriakamarketing.com](https://github.com/user-attachments/assets/95d2ba21-6e0b-4970-a421-27986ea65875)](https://arriakamarketing.com) | [![javilazaro.es](https://github.com/user-attachments/assets/d9e91d2d-b98a-4c69-a8d5-a14e3c9a72d1)](https://javilazaro.es) |
+
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/sesionesgolfas)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@javilazaro.es)
