@@ -22,6 +22,9 @@ que me ha ayudado a la forma de trabajar en mi día a día.
 <div>
  <a href="https://arriakamarketing.com"><img src="https://github.com/user-attachments/assets/95d2ba21-6e0b-4970-a421-27986ea65875" alt="arriakamarketing.com" style="width:15%; height:auto;"></a>
 </div>
+ <div>
+ <a href="https://javilazaro.es"><img src="https://github.com/user-attachments/assets/d9e91d2d-b98a-4c69-a8d5-a14e3c9a72d1" alt="javilazar.es" style="width:15%; height:auto;"></a>
+</div>
 </div>
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/sesionesgolfas)
