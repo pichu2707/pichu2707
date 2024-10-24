@@ -13,9 +13,10 @@ que me ha ayudado a la forma de trabajar en mi día a día.
 <p align="center">
 <img alt="Estado de GitHub de JaviLazaro" src="https://github-readme-stats.vercel.app/api?username=pichu2707&&show_icons=true&title_color=1056a8&icon_color=1056a8&text_color=daf7dc&bg_color=151515" >
  </p>
-<!--
-- 🔭 I’m currently working on ...
--->
+
+### 🔭 Podeis encontrarme en
+[![Analaizer.digital](https://github.com/user-attachments/assets/5799ebe0-d490-47cf-80bc-6ac29e932726)](https://analaizer.digital)
+
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/sesionesgolfas)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@javilazaro.es)
@@ -28,7 +29,7 @@ que me ha ayudado a la forma de trabajar en mi día a día.
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Data" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="VisualStudioCode" style="vertical-align:top; margin:4px">
 
 </p>
-<!--
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -47,6 +48,7 @@ peliculas:["Terror","Acción","Suspense"],
 videojuegos:"Vampire: The Masquerade",
 }
 ```
+
 ### Eres el visitante:
 <br>
 
