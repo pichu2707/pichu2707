@@ -26,7 +26,7 @@ que me ha ayudado a la forma de trabajar en mi día a día.
 
 
 <p align="center">
-![](https://komarev.com
+![Contador de visitas](https://komarev.com)
 </br>
 </p>
 
