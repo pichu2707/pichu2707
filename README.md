@@ -26,7 +26,7 @@ que me ha ayudado a la forma de trabajar en mi día a día.
 
 
 <p align="center">
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpichu2707%2Fpichu2707&label=VISITANTES&countColor=%23263759)
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpichu2707%2Fpichu2707"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpichu2707%2Fpichu2707&label=VISITANTES&countColor=%23263759" /></a>
 </br>
 </p>
 
