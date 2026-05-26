@@ -26,7 +26,7 @@ que me ha ayudado a la forma de trabajar en mi día a día.
 
 
 <p align="center">
-![Estadísticas de Javi](https://shields.io)
+![Visitas](https://visitorbadge.io)
 </br>
 </p>
 
